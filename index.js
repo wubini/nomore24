@@ -283,11 +283,13 @@ L.geoJSON(geojson, {
       var district = parseInt(feature.properties.coun_dist)
       if(districtToDataMap[district].signedOn){
         return {color: 'black',
-                fillColor: '#C71585'}
+                fillColor: '#C71585',
+                fillOpacity: 0.6}
       }
       else {
         return {color: 'black',
-                fillColor: '#f9ecf2'}
+                fillColor: '#E6E6FA',
+                fillOpacity: 0.6}
       }
     },
     onEachFeature: function (feature, layer) {
