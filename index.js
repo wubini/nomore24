@@ -48,7 +48,7 @@ var districtToDataMap = {
   9: {
     name: "Kristin Richardson Jordan",
     neighborhood: "Central Harlem, Morningside Heights, Upper West Side, East Harlem",
-    signedOn: false
+    signedOn: true
   },
   10: {
     name: "Carmen De La Rosa",
@@ -228,7 +228,7 @@ var districtToDataMap = {
   45: {
     name: "Farah N. Louis",
     neighborhood: "Flatbush, East Flatbush, Midwood, Marine Park, Flatlands, Kensington",
-    signedOn: false
+    signedOn: true
   },
   46: {
     name: "Mercedes Narcisse",
