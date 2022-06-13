@@ -88,7 +88,7 @@ var districtToDataMap = {
   17: {
     name: "Rafael Salamanca Jr.",
     neighborhood: "Concourse Village, Crotona Park East, East Tremont, Hunts Point, Longwood, Melrose, Morrisania, Port Morris, West Farms, North Brother Island, South Brother Island",
-    signedOn: false
+    signedOn: true
   },
   18: {
     name: "Amanda Farías",
