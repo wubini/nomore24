@@ -98,7 +98,7 @@ var districtToDataMap = {
   19: {
     name: "Vickie Paladino",
     neighborhood: "Auburndale, Bay Terrace, Bayside, Beechhurst, College Point, Douglaston, Flushing, Little Neck, Malba, Whitestone",
-    signedOn: false
+    signedOn: true
   },
   20: {
     name: "Sandra Ung",
