@@ -79,7 +79,7 @@ var districtToDataMap = {
     name: "Oswald Feliz",
     neighborhood: "Bedford Park, Fordham, Mount Hope, Bathgate, Belmont, East Tremont, West Farms, Van Nest, Allerton, Olinville",
     signedOn: true
-  },
+  },ƒnar
   16: {
     name: "Althea Stevens",
     neighborhood: "Claremont, Concourse, Concourse Village, Highbridge, Morris Heights, Mount Eden, Morrisania",
