@@ -128,7 +128,7 @@ var districtToDataMap = {
   25: {
     name: "Shekar Krishnan",
     neighborhood: "Elmhurst, Jackson Heights",
-    signedOn: false
+    signedOn: true
   },
   26: {
     name: "Julie Won",
