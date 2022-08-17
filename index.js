@@ -178,7 +178,7 @@ var districtToDataMap = {
   35: {
     name: "Crystal Hudson",
     neighborhood: "Fort Greene, Clinton Hill, Crown Heights, Prospect Heights, Bedford Stuyvesant",
-    signedOn: true
+    signedOn: false
   },
   36: {
     name: "Chi Ossé",
