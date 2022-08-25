@@ -83,7 +83,7 @@ var districtToDataMap = {
   16: {
     name: "Althea Stevens",
     neighborhood: "Claremont, Concourse, Concourse Village, Highbridge, Morris Heights, Mount Eden, Morrisania",
-    signedOn: true
+    signedOn: false
   },
   17: {
     name: "Rafael Salamanca Jr.",
@@ -93,7 +93,7 @@ var districtToDataMap = {
   18: {
     name: "Amanda Farías",
     neighborhood: "Soundview, Castle Hill, Parkchester, Clason Point, Harding Park",
-    signedOn: true
+    signedOn: false
   },
   19: {
     name: "Vickie Paladino",
@@ -213,7 +213,7 @@ var districtToDataMap = {
   42: {
     name: "Charles Barron",
     neighborhood: "East New York, New Lots, Remsen Village, Spring Creek, Starrett City",
-    signedOn: false
+    signedOn: true
   },
   43: {
     name: "Justin Brannan",
@@ -258,7 +258,7 @@ var districtToDataMap = {
   51: {
     name: "Joseph C. Borelli",
     neighborhood: "Annadale, Arden Heights, Bay Terrace, Charleston, Eltingville, Great Kills, Greenridge, Heartland Village, Huguenot, New Springville, Pleasant Plains, Prince’s Bay, Richmond Valley, Rossville, Tottenville, Woodrow",
-    signedOn: false
+    signedOn: true
   }
 }
 
