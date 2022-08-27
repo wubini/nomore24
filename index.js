@@ -163,7 +163,7 @@ var districtToDataMap = {
   32: {
     name: "Joann Ariola",
     neighborhood: "Belle Harbor, Breezy Point, Broad Channel, Howard Beach, Lindenwood, Neponsit, Ozone Park, Richmond Hill, Rockaway Park, Roxbury, South Ozone Park, West Hamilton Beach, Woodhaven",
-    signedOn: false
+    signedOn: true
   },
   33: {
     name: "Lincoln Restler",
