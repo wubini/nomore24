@@ -88,7 +88,7 @@ var districtToDataMap = {
   17: {
     name: "Rafael Salamanca Jr.",
     neighborhood: "Concourse Village, Crotona Park East, East Tremont, Hunts Point, Longwood, Melrose, Morrisania, Port Morris, West Farms, North Brother Island, South Brother Island",
-    signedOn: true
+    signedOn: false
   },
   18: {
     name: "Amanda Farías",
@@ -243,7 +243,7 @@ var districtToDataMap = {
   48: {
     name: "Inna Vernikov",
     neighborhood: "Brighton Beach, Manhattan Beach, Sheepshead Bay, Homecrest, Trump Village, Luna Park, Brightwater Towers, Midwood",
-    signedOn: false
+    signedOn: true
   },
   49: {
     name: "Kamillah Hanks",
