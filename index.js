@@ -43,7 +43,7 @@ var districtToDataMap = {
   8: {
     name: "Diana Ayala",
     neighborhood: "El Barrio/East Harlem, Mott Haven, Highbridge, Concourse, Longwood, Port Morris",
-    signedOn: true
+    signedOn: false
   },
   9: {
     name: "Kristin Richardson Jordan",
@@ -63,7 +63,7 @@ var districtToDataMap = {
   12: {
     name: "Kevin C. Riley",
     neighborhood: "Wakefield, Olinville, Edenwald, Eastchester, Williamsbridge, Baychester, Co-op City",
-    signedOn: true
+    signedOn: false
   },
   13: {
     name: "Marjorie Velázquez",
